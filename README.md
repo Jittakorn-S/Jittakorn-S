@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer from Thailand
 ----------------------------
 
-I currently work as a .NET Developer
+I currently work as a Software Engineer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [jittakorn.srisin@gmail.com](mailto:jittakorn.srisin@gmail.com)
