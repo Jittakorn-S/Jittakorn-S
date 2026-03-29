@@ -1,8 +1,14 @@
-<!-- HEADER -->
+<!-- HERO -->
 
 <h1 align="center">Jittakorn Srisin</h1>
+
 <p align="center">
-  Software Engineer • Backend & System Design • Thailand
+  <b>Backend-Focused Software Engineer</b><br/>
+  Building scalable systems & modern web applications
+</p>
+
+<p align="center">
+  <code>.NET</code> • <code>Next.js</code> • <code>Cloud</code>
 </p>
 
 <p align="center">
@@ -13,38 +19,31 @@
 
 ---
 
-## 🧑‍💻 system.identity
+## 🧑‍💻 identity
 
-```bash
+```bash id="l8t1v2"
 name      = "Jittakorn Srisin"
 role      = "Software Engineer"
 location  = "Bangkok, Thailand"
 
-focus     = [
-  "Backend Systems",
-  "Full-Stack Applications",
-  "Cloud Architecture"
-]
-
-status    = "building, learning, improving"
+focus     = "Backend Systems + Full-Stack Architecture"
+status    = "building & improving daily"
 ```
 
 ---
 
-## 🧠 summary
+## 🚀 what_i_do
 
-Software Engineer focused on designing and building scalable backend systems and modern full-stack applications.
-
-* Strong foundation in **.NET, API design, and system architecture**
-* Experience building **real-world applications end-to-end**
-* Interested in **performance, scalability, and clean code**
-* Continuously improving through hands-on projects
+* Design and build **scalable backend systems**
+* Develop **full-stack applications** using modern frameworks
+* Create **clean, maintainable architectures**
+* Focus on **performance and real-world usability**
 
 ---
 
-## 🚀 system.capabilities
+## 🛠 tech_stack
 
-```bash
+```bash id="5v9u8y"
 languages   = ["C#", "TypeScript", "JavaScript", "PHP"]
 
 frontend    = ["Next.js", "Tailwind", "HTML", "CSS"]
@@ -52,93 +51,83 @@ backend     = [".NET", "REST APIs", "Microservices"]
 
 database    = ["MySQL"]
 
-infrastructure = ["Docker", "Linux", "Azure"]
-tools          = ["Git"]
+infra       = ["Docker", "Linux", "Azure"]
+tools       = ["Git"]
 
-creative       = ["Figma", "Adobe Suite"]
+creative    = ["Figma", "Adobe"]
 ```
 
 ---
 
-## 🧩 selected.projects
+## 🧠 philosophy
 
-> ⚠️ Replace with your real pinned repositories (THIS IS CRITICAL)
+```bash id="n3xk2p"
+"Simple scales. Complexity fails."
 
-### 1. Scalable API Service (.NET)
-
-* Designed RESTful APIs using clean architecture principles
-* Structured for scalability and maintainability
-* Implemented modular components for long-term extensibility
-
-### 2. Full-Stack Application (Next.js + .NET)
-
-* Built end-to-end system (frontend + backend integration)
-* Designed responsive UI with efficient API communication
-* Focused on user experience and data flow
-
-### 3. Containerized Deployment (Docker)
-
-* Containerized applications for consistent environments
-* Simplified development and deployment workflows
-* Improved reproducibility across systems
+- clarity over cleverness
+- performance matters
+- systems > scripts
+```
 
 ---
 
-## 📊 system.metrics
+## 📊 metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinktarot&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinktarot&layout=compact&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jinktarot&hide_border=true"/>
-</p>
+---
+
+## 🧩 featured_work
+
+> Replace with your real projects (important)
+
+### Scalable API (.NET)
+
+* Designed RESTful APIs with structured architecture
+* Built for scalability and maintainability
+
+### Full-Stack App (Next.js + .NET)
+
+* Developed end-to-end application
+* Integrated frontend with backend systems
+
+### Dockerized Deployment
+
+* Containerized applications for consistent environments
+* Improved development and deployment workflow
 
 ---
 
-## 🧠 engineering.principles
+## 🔭 current_focus
 
-```bash
-principles = [
-  "Write code for humans first",
-  "Prefer simplicity over unnecessary abstraction",
-  "Design systems before implementing them",
-  "Performance is a feature",
-  "Consistency beats intensity"
-]
-```
-
----
-
-## 🔭 current.mission
-
-```bash
+```bash id="f8k3q1"
 learning = [
   "Cloud architecture (Azure)",
   "Distributed systems",
-  "Scalable backend design"
+  "System design"
 ]
 
-goal = "Become a high-impact global software engineer"
+goal = "high-impact software engineer"
 ```
 
 ---
 
-## 🔁 runtime.loop
+## 🔁 loop
 
-```bash
+```bash id="c7z9m2"
 while(alive) {
   learn();
   build();
-  optimize();
-  repeat();
+  improve();
 }
 ```
 
 ---
 
-## 🌐 contact
+## 🌐 connect
 
 * Email: [jittakorn.srisin@gmail.com](mailto:jittakorn.srisin@gmail.com)
 * GitHub: https://github.com/jinktarot
@@ -147,5 +136,5 @@ while(alive) {
 ---
 
 <p align="center">
-  <i>Building systems that scale. Improving every day.</i>
+  <i>Build real systems. Keep it simple. Improve every day.</i>
 </p>
