@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=INITIALIZING...;ACCESS+GRANTED;JITTAKORN+SRISIN;SYSTEM+ENGINEER;LOADING+NEURAL+PROFILE..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=INITIALIZING...;ACCESS+GRANTED;JITTAKORN+SRISIN;FULL+STACK+DEVELOPER;LOADING+NEURAL+PROFILE..." />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9C&height=120&section=header"/>
 
@@ -25,7 +25,7 @@
 
 ```diff
 + name        :: Jittakorn Srisin
-+ role        :: Software Engineer
++ role        :: Full Stack Developer
 + location    :: Bangkok, Thailand
 + specialty   :: Backend Systems | Cloud | Performance
 ! mindset     :: build → break → optimize → scale
@@ -98,15 +98,6 @@ C# .NET JS TS PHP Docker Azure Linux
 > contact
 jittakorn.srisin@gmail.com
 ```
-
----
-
-## 📊 /metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinktarot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-  <img src="https://streak-stats.demolab.com?user=jinktarot&theme=chartreuse-dark&hide_border=true&background=000000"/>
-</div>
 
 ---
 
