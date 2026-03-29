@@ -1,70 +1,116 @@
-<!-- CYBERPUNK TERMINAL README -->
+<!-- ███████╗ ██████╗ ██████╗     ███╗   ███╗ ██████╗ ██████╗ ███████╗ -->
+
+<!-- CYBERPUNK GOD MODE README -->
 
 <div align="center">
 
-<!-- GLITCH HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=INITIALIZING...;ACCESS+GRANTED;JITTAKORN+SRISIN;SYSTEM+ENGINEER;LOADING+NEURAL+PROFILE..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=ACCESSING+SYSTEM...;JITTAKORN+SRISIN;SOFTWARE+ENGINEER;SYSTEMS+%7C+BACKEND+%7C+CLOUD;STATUS%3A+ONLINE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9C&height=120&section=header"/>
 
 </div>
 
 ---
 
 ```bash
-> booting profile...
-> loading modules ███████████████ 100%
-> welcome back, jittakorn
+> sudo ./init_profile.sh
+> decrypting identity ███████████████ 100%
+> loading neural modules...
+> status: ONLINE
 ```
 
 ---
 
-## 🧠 IDENTITY.exe
+## 🧠 /identity
 
 ```diff
-+ Name: Jittakorn Srisin
-+ Role: Software Engineer
-+ Location: Bangkok, Thailand
-+ Status: Building scalable systems
-! Mode: Continuous Learning
++ name        :: Jittakorn Srisin
++ role        :: Software Engineer
++ location    :: Bangkok, Thailand
++ specialty   :: Backend Systems | Cloud | Performance
+! mindset     :: build → break → optimize → scale
 ```
 
 ---
 
-## ⚡ STACK.sys
+## ⚙️ /stack
 
 ```bash
-CORE      :: C# | .NET | JavaScript | TypeScript | PHP
-FRONTEND  :: HTML | CSS | Tailwind | Bootstrap | Next.js
-BACKEND   :: APIs | System Design | Performance Optimization
-DATABASE  :: MySQL
-DEVOPS    :: Docker | Linux | Azure | Git
-CREATIVE  :: Figma | Photoshop | After Effects | Premiere
+[CORE]
+C# | .NET | JavaScript | TypeScript | PHP
+
+[FRONTEND]
+HTML | CSS | Tailwind | Bootstrap | Next.js
+
+[BACKEND]
+API Design | System Architecture | Performance Optimization
+
+[DATA]
+MySQL
+
+[DEVOPS]
+Docker | Linux | Azure | Git
+
+[CREATIVE]
+Figma | Photoshop | After Effects | Premiere
 ```
 
 ---
 
-## 🚀 CAPABILITIES.log
+## 🧬 /capabilities
 
 ```yaml
 systems:
-  - scalable backend architecture
-  - clean, maintainable code
-  - efficient API design
+  - distributed-ready backend systems
+  - clean architecture patterns
+  - scalable APIs
 
 engineering:
-  - performance optimization
   - debugging complex systems
-  - cross-stack development
+  - performance tuning
+  - writing maintainable code
 
-mindset:
-  - builder > talker
-  - fast learner
-  - ships consistently
+behavior:
+  - ships fast
+  - learns faster
+  - builds consistently
 ```
 
 ---
 
-## 📡 NETWORK.links
+## 🖥️ /terminal (interactive simulation)
+
+```bash
+> help
+
+whoami      → show identity
+stack       → list technologies
+projects    → coming soon
+contact     → get in touch
+clear       → reset terminal
+
+> whoami
+Jittakorn Srisin — Software Engineer
+
+> stack
+C# .NET JS TS PHP Docker Azure Linux
+
+> contact
+jittakorn.srisin@gmail.com
+```
+
+---
+
+## 📊 /metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinktarot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+  <img src="https://streak-stats.demolab.com?user=jinktarot&theme=chartreuse-dark&hide_border=true&background=000000"/>
+</div>
+
+---
+
+## 📡 /network
 
 ```bash
 GitHub   :: https://github.com/jinktarot
@@ -74,34 +120,27 @@ Email    :: jittakorn.srisin@gmail.com
 
 ---
 
-## 📊 METRICS.live
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinktarot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-  <img src="https://streak-stats.demolab.com?user=jinktarot&theme=chartreuse-dark&hide_border=true&background=000000"/>
-</div>
-
----
-
-## 🧬 PHILOSOPHY.core
+## 🧠 /philosophy
 
 ```text
-> build fast
-> stay sharp
-> scale when necessary
-> never stop learning
+> build things that matter
+> optimize everything
+> stay dangerous
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif" width="300"/>
+<img src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif" width="320"/>
 
 </div>
 
 ---
 
 ```bash
-> session end_
+> ./shutdown.sh
+> saving state...
+> disconnecting...
+> _
 ```
