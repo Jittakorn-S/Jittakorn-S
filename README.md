@@ -78,29 +78,6 @@ behavior:
 
 ---
 
-## 🖥️ /terminal (interactive simulation)
-
-```bash
-> help
-
-whoami      → show identity
-stack       → list technologies
-projects    → coming soon
-contact     → get in touch
-clear       → reset terminal
-
-> whoami
-Jittakorn Srisin — Software Engineer
-
-> stack
-C# .NET JS TS PHP Docker Azure Linux
-
-> contact
-jittakorn.srisin@gmail.com
-```
-
----
-
 ## 📡 /network
 
 ```bash
